@@ -17,12 +17,6 @@ docker-compose up --build
 
 Visit: http://localhost
 
-**Project Structure**
-docker/
-├── Dockerfile
-├── docker-compose.yml
-├── main.py
-└── ...
 **Useful Commands**
 docker-compose down
 docker-compose logs -f
